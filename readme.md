@@ -1,3 +1,3 @@
 #Walmart WebScrapper App
 
-This app is used to get authemications.
+This app is used to get authenications.
